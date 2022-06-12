@@ -29,6 +29,7 @@ h3 {
 textarea {
   border: none;
   display: block;
+  color: #fff;
   width: 100%;
   height: 100px;
   font-family: inherit;
