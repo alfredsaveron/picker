@@ -4,7 +4,7 @@
   <img src="https://cdn.discordapp.com/attachments/745937151094423642/983401547096522752/chrome_r4j8KJhM3L.png" />
 </p>
 
-This is the usual random picker project, it offers an easier and nicer interface with customizable details.
+This is the usual random picker project, it offers an easier and nicer interface with customizable details. 
 
 ### 🌊 Demo
 
